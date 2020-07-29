@@ -1,7 +1,7 @@
 python sample
 
-inpot pandas as pandas
-inpot matpltlib.pyplot as pyplot
-inpot japanize_matplotlib
+import pandas as pandas
+import matpltlib.pyplot as pyplot
+import japanize_matplotlib
 
 print("hello world!")
