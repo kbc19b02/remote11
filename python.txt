@@ -1,0 +1,7 @@
+python sample
+
+inport pandas as pandas
+inport matpltlib.pyplot as pyplot
+inport japanize_matplotlib
+
+print("hello world!")
